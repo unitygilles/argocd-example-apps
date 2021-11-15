@@ -5,3 +5,4 @@ wordpress:
       password: bar
     rootUser:
       password: baz
+  replicaCount: 2
